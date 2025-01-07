@@ -29,7 +29,7 @@
   <h2>How to Use 🛠️</h2>
         <ol>
             <li>Clone the repository:
-                <pre>git clone https://github.com/your-username/Weather-Wizard.git
+                <pre>git clone https://github.com/raunak-jain-02/Weather-Wizard.git
 cd Weather-Wizard</pre>
             </li>
             <li>Install the required library:
